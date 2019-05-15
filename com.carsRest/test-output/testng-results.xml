@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1833" started-at="2019-05-15T16:38:57Z" finished-at="2019-05-15T16:38:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1833" started-at="2019-05-15T16:38:57Z" finished-at="2019-05-15T16:38:58Z">
+      <class name="com.cars.com.carsRest.GetCarDetails">
+        <test-method status="PASS" signature="printBlueTesla()[pri:0, instance:com.cars.com.carsRest.GetCarDetails@47c62251]" name="printBlueTesla" duration-ms="1307" started-at="2019-05-15T16:38:57Z" description="Print All Blue Tesla car with notes" finished-at="2019-05-15T16:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printBlueTesla -->
+        <test-method status="PASS" signature="priceOnly()[pri:2, instance:com.cars.com.carsRest.GetCarDetails@47c62251]" name="priceOnly" duration-ms="49" started-at="2019-05-15T16:38:58Z" description="Return car details with lowest price per day" finished-at="2019-05-15T16:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceOnly -->
+        <test-method status="PASS" signature="priceAfterDiscount()[pri:3, instance:com.cars.com.carsRest.GetCarDetails@47c62251]" name="priceAfterDiscount" duration-ms="97" started-at="2019-05-15T16:38:58Z" finished-at="2019-05-15T16:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceAfterDiscount -->
+        <test-method status="PASS" signature="highestRevenueCar()[pri:4, instance:com.cars.com.carsRest.GetCarDetails@47c62251]" name="highestRevenueCar" duration-ms="105" started-at="2019-05-15T16:38:58Z" description="Print highest revenue car" finished-at="2019-05-15T16:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestRevenueCar -->
+        <test-method status="PASS" signature="highestProfitCar()[pri:5, instance:com.cars.com.carsRest.GetCarDetails@47c62251]" name="highestProfitCar" duration-ms="223" started-at="2019-05-15T16:38:58Z" description="Print highest profitable car" finished-at="2019-05-15T16:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestProfitCar -->
+      </class> <!-- com.cars.com.carsRest.GetCarDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

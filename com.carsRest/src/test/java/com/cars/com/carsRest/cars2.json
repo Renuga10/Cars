@@ -1,0 +1,131 @@
+{
+"Cars":
+[
+   {
+         "make":"Tesla",
+         "model":"Model 3",
+         "vin":"09AGHY64352JITEG98K",
+         "metadata":{
+            "color":"Blue",
+            "notes":"Scratches on the front side of the car"
+         },
+         "perdayrent":{
+            "price":95,
+            "discount":15
+         },
+         "metrics":{
+            "yoymaintenancecost":2190.76,
+            "depreciation":2256.43,
+            "rentalcount":{
+               "lastweek":4,
+               "yeartodate":221
+            }
+         }
+   },
+   {
+         "make":"Nissan",
+         "model":"Altima",
+         "vin":"09AGHY64352JITEG98K",
+         "metadata":{
+            "color":"Grey",
+            "notes":"Scratches on the front side of the car"
+         },
+         "perdayrent":{
+            "price":120,
+            "discount":10
+         },
+         "metrics":{
+            "yoymaintenancecost":2190.76,
+            "depreciation":2256.43,
+            "rentalcount":{
+               "lastweek":4,
+               "yeartodate":221
+            }
+         }
+   },
+   {
+         "make":"Tesla",
+         "model":"Model X",
+         "vin":"09AGHY64352JITEG98K",
+         "metadata":{
+            "color":"Grey",
+            "notes":"Brand new vehicle"
+         },
+         "perdayrent":{
+            "price":150,
+            "discount":5
+         },
+         "metrics":{
+            "yoymaintenancecost":2190.76,
+            "depreciation":2256.43,
+            "rentalcount":{
+               "lastweek":4,
+               "yeartodate":221
+            }
+         }
+   },
+   {
+         "make":"Nissan",
+         "model":"Maxima",
+         "vin":"09AGHY64352JITEG98K",
+         "metadata":{
+            "color":"Grey",
+            "notes":"Scratches on the rear side"
+         },
+         "perdayrent":{
+            "price":95,
+            "discount":0
+         },
+         "metrics":{
+            "yoymaintenancecost":2190.76,
+            "depreciation":2256.43,
+            "rentalcount":{
+               "lastweek":4,
+               "yeartodate":221
+            }
+         }
+   },
+   {
+         "make":"Tesla",
+         "model":"Model 2",
+         "vin":"09AGHY64352JITEG98K",
+         "metadata":{
+            "color":"Blue",
+            "notes":"Fair condition"
+         },
+         "perdayrent":{
+            "price":101,
+            "discount":18
+         },
+         "metrics":{
+            "yoymaintenancecost":2190.76,
+            "depreciation":2256.43,
+            "rentalcount":{
+               "lastweek":4,
+               "yeartodate":221
+            }
+         }
+   },
+   {
+         "make":"Tesla",
+         "model":"Model 4",
+         "vin":"09AGHY64352JITEG98K",
+         "metadata":{
+            "color":"Red",
+            "notes":"Excellent condition"
+         },
+         "perdayrent":{
+            "price":160,
+            "discount":5
+         },
+         "metrics":{
+            "yoymaintenancecost":2190.76,
+            "depreciation":2256.43,
+            "rentalcount":{
+               "lastweek":4,
+               "yeartodate":221
+            }
+         }
+   }
+]
+}
